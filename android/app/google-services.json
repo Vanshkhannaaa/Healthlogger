@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210597436821",
+    "project_id": "healthlogger-app39",
+    "storage_bucket": "healthlogger-app39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210597436821:android:ccacf506ae16ecb009ea9c",
+        "android_client_info": {
+          "package_name": "com.example.healthlogger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSXk6-PqKIo-guLOF81nJ425VJtFKml-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
